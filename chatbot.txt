@@ -1,0 +1,801 @@
+[15:16]Hi! I am Chatty the Chatbot.
+[15:16]Chatbot: WHAT IS YOUR NAME?
+[15:16]User: hajra
+[15:16]Chatbot: hajra, what's your age? 
+[15:16]User: 17
+[15:16]Chatbot: Oh you are older than me! I'm 1 days old, I was built on 16th of December.
+[15:16]Chatbot: What's the weather there?
+[15:16]User: 32.00
+[15:16]Chatbot: Its hot outside.
+[15:16]Chatbot: Are you stressed out? Enter yes or no .
+
+[15:16]User: yes
+[15:16]Chatbot: Do you want me to help? Enter yes or no 
+.
+[15:16]User: no
+[15:16]Chatbot: Are you bored? Enter yes or no.
+
+[15:16]User: yes
+[15:16]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[15:16]User: yes
+[15:16]Chatbot: There are a few things that I can suggest:
+Enter
+1 to watch painting videos
+2 to get recipes
+3 to play games
+4 to watch netflix
+5 to exit: 
+[15:16]User: 5
+[15:16]Chatbot: Exiting.
+[15:16]Chatbot: Okay.
+[15:16]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[15:16]User: no
+[15:16]Chatbot: Okay.[1:35]Hi! I am Chatty the Chatbot.
+[1:35]Chatbot: WHAT IS YOUR NAME?
+[1:35]User: hajra
+[1:35]Chatbot: hajra, what's your age? 
+[1:35]User: 17
+[1:35]Chatbot: Oh you are older than me! I'm 5 days old, I was built on 16th of December.
+[1:35]Chatbot: What's the weather there?
+[1:35]User: 19.00
+[1:35]Chatbot: It's cold. Dont forget to wear your jackets!
+[1:35]Chatbot: Are you stressed out? Enter yes or no .
+
+[1:35]User: yes
+[1:35]Chatbot: Do you want me to help? Enter yes or no 
+.
+[1:35]User: yes
+[1:35]Chatbot: Starting relaxing video.
+[1:35]Chatbot: Do you want me to help? Enter yes or no 
+.
+[1:35]User: no
+[1:35]Chatbot: Are you bored? Enter yes or no.
+
+[1:35]User: yes
+[1:35]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[1:35]User: yes
+[1:35]Chatbot: There are a few things that I can suggest:
+Enter
+1 to watch painting videos
+2 to get recipes
+3 to play games
+4 to watch netflix
+5 to exit: 
+[1:35]User: 1
+[1:35]Chatbot: Pleas wait, playing video.
+[1:35]User: 2
+[1:35]Chatbot: Please wait, opening recipes.
+[1:35]User: 3
+[1:35]Chatbot: Please wait, opening games.
+[1:35]User: 5
+[1:35]Chatbot: Exiting.
+[1:35]Chatbot: Okay.
+[1:35]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[1:35]User: yes
+[1:35]Chatbot: There are a few things that I can suggest:
+Enter
+1 to watch painting videos
+2 to get recipes
+3 to play games
+4 to watch netflix
+5 to exit: 
+[1:35]User: 4
+[1:35]Chatbot: Please wait, opening netflix.
+[1:35]User: 5
+[1:35]Chatbot: Exiting.
+[1:35]Chatbot: Okay.
+[1:35]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[1:35]User: no
+[1:35]Chatbot: Okay.[0:42]Hi! I am Chatty the Chatbot.
+[0:42]Chatbot: WHAT IS YOUR NAME?
+[0:42]User: jik
+[0:42]Chatbot: jik, what's your age? 
+[0:42]User: 7
+[0:42]Chatbot: Oh you are older than me! I'm 2 days old, I was built on 16th of December.
+[0:42]Chatbot: What's the weather there?
+[0:42]User: 78.00
+[0:42]Chatbot: Its really warm outside. Dont forget to turn on your AC.
+[0:42]Chatbot: Are you stressed out? Enter yes or no .
+
+[0:42]User: yes
+[0:42]Chatbot: Do you want me to help? Enter yes or no 
+.
+[0:42]User: yes
+[0:42]Chatbot: Starting relaxing video.
+[0:42]Chatbot: Do you want me to help? Enter yes or no 
+.
+[0:42]User: 
+[0:42]Chatbot: Do you want me to help? Enter yes or no 
+.
+[0:42]User: no
+[0:42]Chatbot: Are you bored? Enter yes or no.
+
+[0:42]User: yes
+[0:42]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[0:42]User: yes
+[0:42]Chatbot: There are a few things that I can suggest:
+Enter
+1 to watch painting videos
+2 to get recipes
+3 to play games
+4 to watch netflix
+5 to exit: 
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.
+[0:42]User: 4
+[0:42]Chatbot: Please wait, opening netflix.[1:6]Hi! I am Chatty the Chatbot.
+[1:6]Chatbot: WHAT IS YOUR NAME?
+[1:6]User: hiba
+[1:6]Chatbot: hiba, what's your age? 
+[1:6]User: 20
+[1:6]Chatbot: Oh you are older than me! I'm 2 days old, I was built on 16th of December.
+[1:6]Chatbot: What's the weather there?
+[1:6]User: 76.00
+[1:6]Chatbot: Its really warm outside. Dont forget to turn on your AC.
+[1:6]Chatbot: Are you stressed out? Enter yes or no .
+
+[1:6]User: no
+[1:6]Chatbot: Are you bored? Enter yes or no.
+
+[1:6]User: yes
+[1:6]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[1:6]User: yes
+[1:6]Chatbot: There are a few things that I can suggest:
+Enter
+1 to watch painting videos
+2 to get recipes
+3 to play games
+4 to watch netflix
+5 to exit: 
+[1:6]User: 2
+[1:6]Chatbot: Please wait, opening recipes.
+[1:6]User: 5
+[1:6]Chatbot: Exiting.
+[1:6]Chatbot: Okay.
+[1:6]Chatbot: Do you want me to suggest a few things to fight your boredom? Enter yes or no.
+
+[1:6]User: no
+[1:6]Chatbot: Okay.
